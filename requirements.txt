@@ -1,0 +1,6 @@
+openai
+python-dotenv
+pdf2image
+opencv-python-headless
+pytesseract
+PyMuPDF
