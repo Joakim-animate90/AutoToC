@@ -2,7 +2,7 @@
 
 ## Overview
 
-AutoToC is a powerful tool that automatically extracts Tables of Contents (TOC) from PDF documents using AI vision technology. Particularly optimized for legal and judicial documents, this tool can identify and preserve the structure, formatting, and details of complex document hierarchies without manual intervention.
+AutoToC is a powerful tool that automatically extracts Tables of Contents (TOC) from PDF documents using AI vision technology. This tool can identify and preserve the structure, formatting, and details of complex document hierarchies without manual intervention.
 
 ## Features
 
@@ -79,7 +79,6 @@ print(toc)
 
 ## Limitations
 
-- Currently optimized for legal documents with specific formatting
 - Processes only the first 20 pages of a PDF by default (adjustable in the code)
 - Requires an OpenAI API key with access to GPT-4 vision capabilities
 - Performance depends on PDF quality and clarity
