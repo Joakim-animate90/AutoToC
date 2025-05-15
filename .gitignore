@@ -28,9 +28,6 @@ env/
 # Environment variables
 .env
 
-# Project-specific
-toc/
-*.pdf
 
 # IDE specific files
 .qodo/
