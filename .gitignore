@@ -28,6 +28,9 @@ env/
 # Environment variables
 .env
 
+# Project-specific
+
+steve.pdf
 
 # IDE specific files
 .qodo/
